@@ -328,7 +328,7 @@
 * [LiteDB](https://github.com/mbdavid/LiteDB)-什么？-.NET NoSQL文档存储在单个数据文件中-[http://www.litedb.org](http://www.litedb.org)。
 * [NoDb](https://github.com/joeaudette/NoDb)-“无数据库” 文件系统存储。NET Core/ASP.NET Core，因为不是每个项目都需要数据库。
 * [marten](https://github.com/JasperFx/marten)-Postgresql作为的文档数据库和事件存储。NET应用程序[http://jasperfx.github.io/marten](http://jasperfx.github.io/marten)。
-* [StringDB](https://github.com/SirJosh3917/StringDB)-StringDB是一个模块化的键/值对存档DB，旨在消耗* 微小的* ram和产品的数量* 微小的* 数据库。
+* [StringDB](https://github.com/SirJosh3917/StringDB)-StringDB是一个模块化的键/值对存档DB，旨在消耗*微小的* ram和产品的数量*微小的* 数据库。
 * [yessql](https://github.com/sebastienros/yessql)-什么？-.NET文档数据库在任何RDBMS上工作。
 ### 数据库驱动程序
 
@@ -599,7 +599,7 @@
   * [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)-实体框架实用工具 | 批量操作 | 批量删除 | 批量更新 | 查询缓存 | 查询筛选器 | 查询将来 | 查询包含 | 审核。
   * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions)-当SQL查询违反SqlServer、MySql或PostgreSQL中的数据库约束时，对EntityFrameworkCore使用类型化异常。
   * [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers)-EF的触发事件。
-  * [EntityFramework.Rx](https://github.com/NickStrupat/EntityFramework.Rx)-反应性** 热** 您的EF操作的可观察量。
+  * [EntityFramework.Rx](https://github.com/NickStrupat/EntityFramework.Rx)-反应性**热** 您的EF操作的可观察量。
   * [Npgsql.EntityFrameworkCore.PostgreSQL](https://github.com/npgsql/Npgsql.EntityFrameworkCore.PostgreSQL)-PostgreSQL的实体框架核心提供程序。
   * [EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey)-轻松获取任何实体的主键 (包括组合键)。
   * [EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues)-获取实体的原始值的代理对象 (对属性 (“...”).OriginalValue的类型化访问)。
@@ -756,7 +756,7 @@
 * [NSpec](https://github.com/nspec/NSpec)-C # 的战斗强化测试框架，受到Mocha和RSpec的启发。
 * [NSubstitute](https://github.com/nsubstitute/NSubstitute)-友好的替代品。NET嘲笑框架。
 * [nunit](https://github.com/nunit/dotnet-test-nunit)-用于的NUnit测试运行程序。NET核心。
-* [shouldly](https://github.com/shouldly/shouldly)-应该测试。NET-断言的方式* 应该* be![http://shouldly.readthedocs.org/en/latest](http://shouldly.readthedocs.org/en/latest)
+* [shouldly](https://github.com/shouldly/shouldly)-应该测试。NET-断言的方式*应该* be![http://shouldly.readthedocs.org/en/latest](http://shouldly.readthedocs.org/en/latest)
 * [SpecFlow](https://github.com/techtalk/SpecFlow)-实用的BDD解决方案。NET。它使用Gherkin规范语言并集成到Visual Studio。
 * [Storyteller](https://github.com/storyteller/Storyteller)-可执行规范。净值[http://storyteller.github.io](http://storyteller.github.io)。
 * [Stubbery](https://markvincze.github.io/Stubbery/)-一个用于在中创建和运行Api存根的简单库。NET。
