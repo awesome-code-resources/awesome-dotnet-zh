@@ -1,11 +1,11 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-dotnet-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-# Awesome .NET核心[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 灵感来自[awesome](https://github.com/sindresorhus/awesome),[awesome-dotnet](https://github.com/quozd/awesome-dotnet),[awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs),[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)。
 
 捐款总是受欢迎的!请看一下[contribution guidelines](https://github.com/thangchung/awesome-dotnet-core/blob/master/contributing.md)第一页。我们也接受专有和商业软件。
 
-感谢所有[contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors),你Awesome ，没有你是不可能的!目标是建立一个分类的社区驱动的非常知名的资源集合。
+感谢所有[contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors),你真棒，没有你是不可能的!目标是建立一个分类的社区驱动的非常知名的资源集合。
 
 查看我的[blog](https://medium.com/@thangchung)或说嗨[Twitter](https://twitter.com/thangchung)!
 
@@ -178,7 +178,7 @@
 * [CleanArchitecture](https://github.com/ardalis/CleanArchitecture)-使用ASP.NET Core的干净体系结构的起点。Clean Architecture只是一系列名称中的最新名称，用于相同的松散耦合，依赖倒置的体系结构。您还会发现它被命名为六角形，端口和适配器或洋葱体系结构。
 * [CleanArchitecture (SPA)](https://github.com/JasonGT/CleanArchitecture)-使用Angular 8和ASP.NET Core 3创建单页应用程序 (SPA) 的解决方案模板，遵循清洁架构的原则
 * [DNTFrameworkCoreTemplate](https://github.com/rabbal/DNTFrameworkCoreTemplate)-基于Boilerplate项目模板[DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore)
-* [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju)-dotnet新模板与Awesome 架构风格!提高生产力，以设计基于六角形、干净或事件源架构样式的分层应用程序。它支持多种数据访问框架 (MongoDB，EntityFramework，Dapper或Kafka)，并且完全可测试。
+* [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju)-dotnet新模板与真棒架构风格!提高生产力，以设计基于六角形、干净或事件源架构样式的分层应用程序。它支持多种数据访问框架 (MongoDB，EntityFramework，Dapper或Kafka)，并且完全可测试。
 * [EISK](https://github.com/EISK/eisk.webapi)-提供具有简单用例的开发人员资源，以在之上构建可扩展的应用程序。NET Core与[architectural best practices](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures)(DDD，洋葱建筑等)
 * [JavaScriptServices](https://github.com/aspnet/JavaScriptServices)-Microsoft ASP.NET Core JavaScript服务。
 * [kendo-ui-core](https://github.com/telerik/kendo-ui-core)-一个HTML5，基于jQuery的小部件库，用于构建现代web应用程序。[http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui)。
@@ -792,7 +792,7 @@
 * [SharpZipLib](https://github.com/icsharpcode/SharpZipLib)# ziplib是一个完全用C # 编写的Zip，GZip，Tar和BZip2库。NET平台。
 * [ShareX](https://github.com/ShareX/ShareX)-免费的开源程序，让您捕获或记录屏幕的任何区域，并与一键共享。它还允许将图像，文本或其他类型的文件上传到您可以选择的80多个受支持的目的地。[https://getsharex.com](https://getsharex.com)
 * [SharpLab](https://github.com/ashmind/SharpLab)-什么？-.NET代码游乐场，显示代码编译的中间步骤和结果。[https://sharplab.io](https://sharplab.io)
-* [SmartCode](https://github.com/Ahoo-Wang/SmartCode)-SmartCode = IDataSource -> IBuildTask -> IOutput => 构建一切!(包括 [代码生成器])
+* [SmartCode](https://github.com/Ahoo-Wang/SmartCode)-SmartCode = IDataSource -&gt; IBuildTask -&gt; IOutput =&gt; 构建一切!(包括 [代码生成器])
 * [sourcelink](https://github.com/dotnet/sourcelink)-SourceLink是一个与语言和源代码控制无关的系统，用于为二进制文件提供一流的源代码调试体验。
 * [System.CommandLine](https://github.com/dotnet/command-line-api)-System.CommandLine，一组用于命令行解析、调用和呈现终端输出的库。
 * [Typin](https://github.com/adambajguz/Typin)-简单易用的声明性框架，用于交互式CLI应用程序和命令行工具 (直接模式)，其根源在于CliFx。
@@ -802,7 +802,7 @@
 
 * WebAssembly
   * [Blazor](https://github.com/SteveSanderson/Blazor)-UI框架正在运行。NET在浏览器中通过WebAssembly。
-  * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)-关于Blazor的Awesome 资源 (样品，组件，文章，视频等) 的集合。
+  * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)-关于Blazor的真棒资源 (样品，组件，文章，视频等) 的集合。
   * [Blazor Redux](https://github.com/torhovland/blazor-redux)-将Redux州立商店与Blazor连接。
   * [Ooui](https://github.com/praeclarum/Ooui)-小型跨平台UI库，将本机UI开发的简单性带入web。
 * [ReactJS.NET](https://github.com/reactjs/React.NET)-什么？-.NET库，用于JSX编译和React组件的服务器端渲染。
