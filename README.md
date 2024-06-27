@@ -1,12 +1,11 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-dotnet-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
 本项目的原始仓库地址为[这里](https://github.com/thangchung/awesome-dotnet-core)。
-# Awesome .NET核心[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+# Awesome .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 灵感来自[awesome](https://github.com/sindresorhus/awesome),[awesome-dotnet](https://github.com/quozd/awesome-dotnet),[awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs),[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)。
 
 捐款总是受欢迎的!请看一下[contribution guidelines](https://github.com/thangchung/awesome-dotnet-core/blob/master/contributing.md)第一页。我们也接受专有和商业软件。
 
-感谢所有[contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors),你Awesome ，没有你是不可能的!目标是建立一个分类的社区驱动的非常知名的资源集合。
+感谢所有[contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors),你真棒，没有你是不可能的!目标是建立一个分类的社区驱动的非常知名的资源集合。
 
 查看我的[blog](https://medium.com/@thangchung)或说嗨[Twitter](https://twitter.com/thangchung)!
 
@@ -179,7 +178,7 @@
 * [CleanArchitecture](https://github.com/ardalis/CleanArchitecture)-使用ASP.NET Core的干净体系结构的起点。Clean Architecture只是一系列名称中的最新名称，用于相同的松散耦合，依赖倒置的体系结构。您还会发现它被命名为六角形，端口和适配器或洋葱体系结构。
 * [CleanArchitecture (SPA)](https://github.com/JasonGT/CleanArchitecture)-使用Angular 8和ASP.NET Core 3创建单页应用程序 (SPA) 的解决方案模板，遵循清洁架构的原则
 * [DNTFrameworkCoreTemplate](https://github.com/rabbal/DNTFrameworkCoreTemplate)-基于Boilerplate项目模板[DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore)
-* [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju)-dotnet新模板与Awesome 架构风格!提高生产力，以设计基于六角形、干净或事件源架构样式的分层应用程序。它支持多种数据访问框架 (MongoDB，EntityFramework，Dapper或Kafka)，并且完全可测试。
+* [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju)-dotnet新模板与真棒架构风格!提高生产力，以设计基于六角形、干净或事件源架构样式的分层应用程序。它支持多种数据访问框架 (MongoDB，EntityFramework，Dapper或Kafka)，并且完全可测试。
 * [EISK](https://github.com/EISK/eisk.webapi)-提供具有简单用例的开发人员资源，以在之上构建可扩展的应用程序。NET Core与[architectural best practices](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures)(DDD，洋葱建筑等)
 * [JavaScriptServices](https://github.com/aspnet/JavaScriptServices)-Microsoft ASP.NET Core JavaScript服务。
 * [kendo-ui-core](https://github.com/telerik/kendo-ui-core)-一个HTML5，基于jQuery的小部件库，用于构建现代web应用程序。[http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui)。
@@ -545,8 +544,8 @@
 * [JqueryDataTablesServerSide](https://github.com/fingers10/JqueryDataTablesServerSide)-ASP.NET Core服务器端处理库，用于Jquery数据表，具有Excel导出和TagHelper支持的数据库级别的多列过滤，排序和分页。
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost)-什么？-.NET包装周围的[libSass](http://sass-lang.com/libsass)能够支持虚拟文件系统的库。
 * [markdig](https://github.com/lunet-io/markdig)-快速，强大，符合CommonMark标准，可扩展的Markdown处理器。NET。
-* [NetCoreBeauty](https://github.com/nulastudio/NetCoreBeauty)-简单的库移动。NET Core应用程序运行时组件和依赖项到子目录中，并使其美丽。
-* [NFlags](https://github.com/bartoszgolek/NFlags)-简单的库，使解析CLI参数变得容易。库还允许打印使用帮助 “开箱即用”。
+* [NetCoreBeauty](https://github.com/nulastudio/NetCoreBeauty)-简单的图书馆移动。NET Core应用程序运行时组件和依赖项到子目录中，并使其美丽。
+* [NFlags](https://github.com/bartoszgolek/NFlags)-简单的库，使解析CLI参数变得容易。图书馆还允许打印使用帮助 “开箱即用”。
 * [NReco.LambdaParser](https://github.com/nreco/lambdaparser)-将字符串表达式 (公式，方法调用，条件) 解析为可以编译为lambda并进行评估的LINQ表达式树。
 * [NuGet Trends](https://github.com/NuGetTrends/nuget-trends)-具有NuGet软件包下载计数统计信息的网站。
 * [NYoutubeDL](https://gitlab.com/BrianAllred/NYoutubeDL)-一个简单的youtube-dl库为C #/.NET。
@@ -745,7 +744,7 @@
 * [Atata](https://github.com/atata-framework/atata)基于Selenium WebDriver的Web UI测试自动化全功能框架。[https://atata.io](https://atata.io)
 * [Bogus](https://github.com/bchavez/Bogus)-简单和理智的假数据生成器为C #。基于并从著名的faker.js移植。
 * [CoreBDD](https://github.com/stevenknox/CoreBDD)-用于r xUnit.net的BDD框架
-* [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)-简单的嘲笑库。NET。
+* [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)-简单的嘲笑图书馆。NET。
 * [FluentAssertions](https://github.com/fluentassertions/fluentassertions)-一套。NET扩展方法，使您可以更自然地指定TDD或BDD样式测试的预期结果。
 * [GenFu](https://github.com/MisterJames/GenFu)-库，您可以使用生成现实的测试数据。
 * [LightBDD](https://github.com/LightBDD/LightBDD)-BDD框架允许创建易于阅读和维护的测试。
@@ -803,7 +802,7 @@
 
 * WebAssembly
   * [Blazor](https://github.com/SteveSanderson/Blazor)-UI框架正在运行。NET在浏览器中通过WebAssembly。
-  * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)-关于Blazor的Awesome 资源 (样品，组件，文章，视频等) 的集合。
+  * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)-关于Blazor的真棒资源 (样品，组件，文章，视频等) 的集合。
   * [Blazor Redux](https://github.com/torhovland/blazor-redux)-将Redux州立商店与Blazor连接。
   * [Ooui](https://github.com/praeclarum/Ooui)-小型跨平台UI库，将本机UI开发的简单性带入web。
 * [ReactJS.NET](https://github.com/reactjs/React.NET)-什么？-.NET库，用于JSX编译和React组件的服务器端渲染。
